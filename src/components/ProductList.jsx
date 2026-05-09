@@ -27,3 +27,4 @@ const ProductList = ({addToCart, category}) => {
     </div>
   )
 }
+export default ProductList
